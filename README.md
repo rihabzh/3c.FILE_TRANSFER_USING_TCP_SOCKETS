@@ -49,8 +49,9 @@ print("File sent")
 ## OUPUT
 # server:
 
+![alt text](<Screenshot 2026-03-16 230231.png>)
 # client :
-
+![alt text](<Screenshot 2026-03-16 230221.png>)
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
