@@ -47,10 +47,10 @@ f.close()
 print("File sent")
 ```
 ## OUPUT
-# server:
+# client:
 
 ![alt text](<Screenshot 2026-03-16 230231.png>)
-# client :
+# server :
 ![alt text](<Screenshot 2026-03-16 230221.png>)
 
 ## RESULT
